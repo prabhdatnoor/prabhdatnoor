@@ -1,1 +1,1 @@
--Hello my name is Prabhnoor<br /> -I am studying Computer Science at the University of Waterloo <br /> -I am looking for a co-op for winter 2023 <br /> <br />Feel free to look at my repositories!
+-Hello my name is Prabhnoor<br /> -I am studying Computer Science at the University of Waterloo <br /> -I am looking for a co-op for winter 2024 <br /> <br />Feel free to look at my repositories!
